@@ -7,3 +7,4 @@ https://github.com/pershin03/docs/blob/main/Тест-кейс_Першин.pdf
 Отчеты о дефектах  
 https://docs.google.com/spreadsheets/d/1iU2qM0eY-Te3MuwKVjbmKsbVL_lWgpI2Zqqi0VXInnA/edit?usp=sharing  
 Экспортированные таблицы в xlsx и pdf  
+https://github.com/pershin03/docs/blob/main/Issues.xlsx  
